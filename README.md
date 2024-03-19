@@ -1,10 +1,11 @@
 # Language-Models
 
-### Building Language Models Inspired by 
+### Building Language Models Inspired from 
 - Sebastian Raschka
 - Andrej Karpathy
 - Natural Language Processing with Transformers - Lewis Tunstall, Leandro von Werra, Thomas Wolf
 - Generative Deep Learning - David Foster
+- DeepLearning.ai
 
 
 ### Goal
